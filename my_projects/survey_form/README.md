@@ -25,7 +25,7 @@ The project structure includes:
 
 To view the survey form:
 
-1. Clone the repository: `git clone https://github.com/your-username/survey-form.git](https://github.com/omarnate1/projects/tree/main/my_projects/survey_form`
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/survey_form`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
