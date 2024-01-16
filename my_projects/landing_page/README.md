@@ -25,7 +25,7 @@ The project structure includes:
 
 To view the landing page:
 
-1. Clone the repository: `git clone https://github.com/your-username/landing-page.git](https://github.com/omarnate1/projects/tree/main/my_projects/landing_page`
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/landing_page`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
