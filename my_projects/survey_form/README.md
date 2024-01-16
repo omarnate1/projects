@@ -25,13 +25,13 @@ The project structure includes:
 
 To view the survey form:
 
-1. Clone the repository: `git clone https://github.com/your-username/survey-form.git`
+1. Clone the repository: `git clone https://github.com/your-username/survey-form.git](https://github.com/omarnate1/projects/tree/main/my_projects/survey_form`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
 ## Contributing
 
-Contributions to improve the form's functionality, enhance styling, add new question types, implement additional validation, or optimize responsiveness are welcome! Follow these steps:
+Contributions to improve the form's functionality, enhance the styling, add new question types, implement additional validation, or optimize responsiveness are welcome! Follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/new-feature`
@@ -43,4 +43,4 @@ Contributions to improve the form's functionality, enhance styling, add new ques
 
 ## Credits
 
-- The survey form design and code are created by [nathan].
+- The survey form design and code are created by [Nathan].
