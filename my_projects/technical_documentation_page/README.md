@@ -24,7 +24,7 @@ The project structure includes:
 
 To view the technical documentation page:
 
-1. Clone the repository: `git clone https://github.com/your-username/technical-documentation-page.git`
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/technical_documentation_page`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
@@ -42,4 +42,4 @@ Contributions to enhance the documentation content, improve styling, optimize na
 
 ## Credits
 
-- The technical documentation content and code are created by [nathan].
+- The technical documentation content and code are created by [Nathan].
