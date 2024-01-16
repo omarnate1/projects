@@ -24,7 +24,7 @@ The project structure includes:
 
 To view the tribute page:
 
-1. Clone the repository: `git clone https://github.com/your-username/tribute-page.git`
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/tribute_page`
 2. Navigate to the project directory.
 3. Open the `index.html` file in a web browser.
 
@@ -42,4 +42,4 @@ Contributions to enhance the content, improve styling, add more multimedia eleme
 
 ## Credits
 
-- The tribute page content and code are created by [Your Name].
+- The tribute page content and code are created by [Nathan].
