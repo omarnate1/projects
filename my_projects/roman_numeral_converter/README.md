@@ -14,7 +14,7 @@ The "Roman Numeral Converter" project provides a user-friendly interface to conv
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/roman-numeral-converter.git`
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/roman_numeral_converter`
 2. Open the `index.html` file in a web browser.
 3. Enter a Roman numeral or a decimal number in the input field.
 4. Click the "Convert" button to see the conversion result.
