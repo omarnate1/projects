@@ -1,43 +1,55 @@
 # Phone Number Validator Project
 
-This project is a simple Phone Number Validator built using HTML, CSS, and JavaScript. The purpose of this project is to validate phone numbers entered by users based on certain criteria.
+This project is a simple Phone Number Validator application built using HTML, CSS, and JavaScript. Its primary purpose is to validate phone numbers entered by users based on predefined criteria.
 
-## Features
+## User Stories
 
-- Validates phone numbers entered by users.
-- Provides instant feedback on whether the entered phone number is valid or not.
-- Simple and intuitive user interface.
+1. **Empty Input Handling:**
 
-## Technologies Used
+   - When the user clicks on the `Validate` button without entering a phone number in the input field, the application should prompt with an alert saying "Please input a phone number."
 
-- **HTML**: Provides the structure and layout of the web page.
-- **CSS**: Adds styles and enhances the visual appeal of the web page.
-- **JavaScript**: Implements the functionality of the phone number validation.
+2. **Valid Phone Numbers:**
+
+   - When a valid phone number is entered and the `Validate` button is clicked, the application should provide instant feedback indicating that the phone number is valid.
+
+3. **Invalid Phone Numbers:**
+   - When an invalid phone number is entered and the `Validate` button is clicked, the application should display an error message indicating that the phone number is invalid.
+
+## File Structure
+
+The project structure includes:
+
+- `index.html`: HTML file containing the structure and content of the phone number validator application.
+- `styles/`: Directory containing CSS files for styling.
+  - `styles.css`: CSS file containing styles for the phone number validator.
+- `scripts/`: Directory containing JavaScript files for functionality.
+  - `script.js`: JavaScript file containing code for phone number validation.
 
 ## Usage
 
 To use the Phone Number Validator:
 
-1. Open the HTML file (`index.html`) in your web browser.
-2. Enter the phone number you wish to validate in the designated input field.
-3. Press the "Validate" button.
-4. Receive instant feedback indicating whether the entered phone number is valid or not.
+1. Clone the repository: `git clone https://github.com/omarnate1/projects/tree/main/my_projects/phone_no_validator`
+2. Navigate to the project directory.
+3. Open the `index.html` file in a web browser.
+4. Enter the phone number you want to validate in the input field.
+5. Click the `Validate` button to see if the phone number is valid or not.
 
-## Project Structure
+## Contributing
 
-- **index.html**: The main HTML file that contains the structure of the web page.
-- **styles.css**: The CSS file responsible for styling the HTML elements.
-- **script.js**: The JavaScript file that implements the phone number validation logic.
+Contributions to enhance the user interface, improve functionality, optimize performance, or fix bugs are welcome! Follow these steps:
 
-## How It Works
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`
+3. Make your changes.
+4. Test the changes to ensure everything works properly.
+5. Commit your changes: `git commit -m 'Add new feature'`
+6. Push to the branch: `git push origin feature/new-feature`
+7. Create a pull request.
 
-The Phone Number Validator project employs JavaScript to validate phone numbers. It checks the entered phone number against predefined criteria, such as length, format, and character types.
+## Credits
 
-Upon clicking the "Validate" button, the JavaScript function is triggered, which validates the entered phone number according to the specified criteria. If the phone number meets the criteria, a success message is displayed to the user indicating that the phone number is valid. Otherwise, an error message notifies the user that the entered phone number is invalid.
-
-## Contributions
-
-Contributions to this project are welcome. Feel free to submit issues or pull requests to suggest improvements, report bugs, or add new features.
+This Phone Number Validator project was created by [Nathan]. Feel free to reach out with any questions or suggestions for improvement.
 
 ## License
 
