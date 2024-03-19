@@ -7,7 +7,7 @@ Welcome to the Cash Register Project! This project is a simple web-based cash re
 To get started with the Cash Register Project, follow these steps:
 
 1. **Clone the Repository**: Clone this repository to your local machine using Git:
-   git clone https://github.com/your-username/cash-register-project.git
+   git clone https://github.com/omarnate1/projects/tree/main/my_projects/cash_register
 
 2. **Open the Project**: Navigate to the project directory and open the `index.html` file in your preferred web browser.
 
